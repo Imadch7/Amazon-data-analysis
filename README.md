@@ -46,8 +46,8 @@ print(df.head())
 ## Files Structure
 - `/data/`: Raw and processed datasets (e.g., CSV files with Amazon sales data).
 - `/notebooks/`: Jupyter notebooks for EDA and modeling.
-- `/scripts/`: Python scripts for data processing.
-- `/visualizations/`: Generated plots and dashboards.
+- `/scripts/`: Python scripts for Generate plots and dashboards.
+- `/vedio, /reports`: Generate video for description and reports.
 - `requirements.txt`: List of Python dependencies.
 
 ## Contact
